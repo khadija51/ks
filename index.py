@@ -9,7 +9,7 @@ def home():
         <head><title>My Page</title></head>
         <body>
             <h1>Hello from Python!</h1>
-            <p>This is HTML served by a Python web server.</p>
+            <p> hi my name is </p>
         </body>
     </html>
     '''
